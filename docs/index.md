@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+## Welcome to the Vcash Community wiki. ##
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Vcash is a [cryptographic-currency](https://en.wikipedia.org/wiki/Cryptocurrency) previously known as Vanillacoin released on December 23rd 2014.
 
-## Commands
+#### Source Code ####
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[https://github.com/openvcash/vcash](https://github.com/openvcash/)
