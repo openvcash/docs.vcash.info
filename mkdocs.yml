@@ -3,11 +3,11 @@ theme: readthedocs
 
 pages:
  - Home : index.md
- - Block: 
+ - Block:
     - Generation:
         - block/generation/proof-of-stake.md
         - block/generation/proof-of-work.md
-    - block/pruning.md   
+    - block/pruning.md
  - Configuration:
    - Files:
      - configuration/files/config.dat.md
@@ -64,6 +64,6 @@ pages:
      - RPC/commands/walletlock.md
      - RPC/commands/walletpassphrase.md
      - RPC/commands/walletpassphrasechange.md
- - Technologies: 
+ - Technologies:
     - technologies/nodes-incentives.md
     - technologies/zerotime.md

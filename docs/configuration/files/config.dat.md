@@ -41,7 +41,7 @@
 ### Key Definitions ###
 
     * version - The file version.
-    * network.tcp.port - The network TCP port to use. 
+    * network.tcp.port - The network TCP port to use.
     * network.tcp.inbound.maximum - The maximum number of inbound TCP connections.
     * network.udp.enable - Enables UDP.
     * wallet.transaction.history.maximum - The maximum transaction history (in seconds) to display.
