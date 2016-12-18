@@ -5,18 +5,18 @@ pages:
  - Home : index.md
  - Block:
     - Generation:
-        - block/generation/proof-of-stake.md
-        - block/generation/proof-of-work.md
+        - 'Proof-of-Stake': block/generation/proof-of-stake.md
+        - 'Proof-of-Work': block/generation/proof-of-work.md
     - block/pruning.md
  - Configuration:
    - Files:
-     - configuration/files/config.dat.md
+     - 'config.dat': configuration/files/config.dat.md
  - Protocol:
    - Messages:
-       - protocol/messages/ztanswer.md
-       - protocol/messages/ztlock.md
-       - protocol/messages/ztquestion.md
-       - protocol/messages/ztvote.md
+       - 'ztanswer': protocol/messages/ztanswer.md
+       - 'ztlock': protocol/messages/ztlock.md
+       - 'ztquestion': protocol/messages/ztquestion.md
+       - 'ztvote': protocol/messages/ztvote.md
    - TCP:
        - protocol/TCP/encryption.md
        - protocol/TCP/routing.md
@@ -25,45 +25,45 @@ pages:
        - protocol/UDP/routing.md
  - RPC:
    - Commands:
-     - RPC/commands/backupwallet.md
-     - RPC/commands/checkwallet.md
-     - RPC/commands/databasefind.md
-     - RPC/commands/databasestore.md
-     - RPC/commands/dumpprivkey.md
-     - RPC/commands/dumpwallet.md
-     - RPC/commands/encryptwallet.md
-     - RPC/commands/getaccount.md
-     - RPC/commands/getaccountaddress.md
-     - RPC/commands/getbalance.md
-     - RPC/commands/getblock.md
-     - RPC/commands/getblockcount.md
-     - RPC/commands/getblockhash.md
-     - RPC/commands/getblocktemplate.md
-     - RPC/commands/getdifficulty.md
-     - RPC/commands/getincentiveinfo.md
-     - RPC/commands/getinfo.md
-     - RPC/commands/getmininginfo.md
-     - RPC/commands/getnetworkhashps.md
-     - RPC/commands/getnewaddress.md
-     - RPC/commands/getpeerinfo.md
-     - RPC/commands/getrawtransaction.md
-     - RPC/commands/gettransaction.md
-     - RPC/commands/importprivkey.md
-     - RPC/commands/incentive.md
-     - RPC/commands/listreceivedbyaccount.md
-     - RPC/commands/listreceivedbyaddress.md
-     - RPC/commands/listsinceblock.md
-     - RPC/commands/listtransactions.md
-     - RPC/commands/repairwallet.md
-     - RPC/commands/sendmany.md
-     - RPC/commands/sendtoaddress.md
-     - RPC/commands/settxfee.md
-     - RPC/commands/submitblock.md
-     - RPC/commands/validateaddress.md
-     - RPC/commands/walletdenominate.md
-     - RPC/commands/walletlock.md
-     - RPC/commands/walletpassphrase.md
-     - RPC/commands/walletpassphrasechange.md
+     - 'backupwallet': RPC/commands/backupwallet.md
+     - 'checkwallet': RPC/commands/checkwallet.md
+     - 'databasefind': RPC/commands/databasefind.md
+     - 'databasestore': RPC/commands/databasestore.md
+     - 'dumpprivkey': RPC/commands/dumpprivkey.md
+     - 'dumpwallet': RPC/commands/dumpwallet.md
+     - 'encryptwallet': RPC/commands/encryptwallet.md
+     - 'getaccount': RPC/commands/getaccount.md
+     - 'getaccountaddress': RPC/commands/getaccountaddress.md
+     - 'getbalance': RPC/commands/getbalance.md
+     - 'getblock': RPC/commands/getblock.md
+     - 'getblockcount': RPC/commands/getblockcount.md
+     - 'getblockhash': RPC/commands/getblockhash.md
+     - 'getblocktemplate': RPC/commands/getblocktemplate.md
+     - 'getdifficulty': RPC/commands/getdifficulty.md
+     - 'getincentiveinfo': RPC/commands/getincentiveinfo.md
+     - 'getinfo': RPC/commands/getinfo.md
+     - 'getmininginfo': RPC/commands/getmininginfo.md
+     - 'getnetworkhashps': RPC/commands/getnetworkhashps.md
+     - 'getnewaddress': RPC/commands/getnewaddress.md
+     - 'getpeerinfo': RPC/commands/getpeerinfo.md
+     - 'getrawtransaction': RPC/commands/getrawtransaction.md
+     - 'gettransaction': RPC/commands/gettransaction.md
+     - 'importprivkey': RPC/commands/importprivkey.md
+     - 'incentive': RPC/commands/incentive.md
+     - 'listreceivedbyaccount': RPC/commands/listreceivedbyaccount.md
+     - 'listreceivedbyaddress': RPC/commands/listreceivedbyaddress.md
+     - 'listsinceblock': RPC/commands/listsinceblock.md
+     - 'listtransactions': RPC/commands/listtransactions.md
+     - 'repairwallet': RPC/commands/repairwallet.md
+     - 'sendmany': RPC/commands/sendmany.md
+     - 'sendtoaddress': RPC/commands/sendtoaddress.md
+     - 'settxfee': RPC/commands/settxfee.md
+     - 'submitblock': RPC/commands/submitblock.md
+     - 'validateaddress': RPC/commands/validateaddress.md
+     - 'walletdenominate': RPC/commands/walletdenominate.md
+     - 'walletlock': RPC/commands/walletlock.md
+     - 'walletpassphrase': RPC/commands/walletpassphrase.md
+     - 'walletpassphrasechange': RPC/commands/walletpassphrasechange.md
  - Technologies:
-    - technologies/node-incentives.md
-    - technologies/zerotime.md
+    - 'Node Incentives': technologies/node-incentives.md
+    - 'ZeroTime': technologies/zerotime.md
