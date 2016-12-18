@@ -20,11 +20,11 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 4. What is the incentive percentage?
 
 	Schedule: [https://github.com/openvcash/vcash/blob/b49dec02a9a1cde13b6357ba9b22b974fcfda366/coin/src/incentive.cpp#L250-L428](https://github.com/openvcash/vcash/blob/b49dec02a9a1cde13b6357ba9b22b974fcfda366/coin/src/incentive.cpp#L250-L428)
-    
+
 5. How do mining pools reward users?
 
 	As found in [getblocktemplate](https://wiki.vcash.info/RPC/Commands/getblocktemplate.md) they are required to include a transaction if the incentive address is not empty.
-	
+
 	```
 	"incentive": {
 		"enforced": false,
@@ -45,6 +45,6 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 	* Quad Core (Physical CPU)
 	* 2 gigabytes of free memory (Physical RAM)
     * 1 gigabytes of free disk space (Physical SSD)
-    
+
 
 You can read more about it in the [whitepaper](https://github.com/openvcash/papers/blob/master/incentive.pdf).

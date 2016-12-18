@@ -14,7 +14,7 @@ validateaddress VnLlLns3UFSqd5QFhZecBvoNV9Afs3EgdT
     "isvalid": true,
     "address": VnLlLns3UFSqd5QFhZecBvoNV9Afs3EgdT,
     "ismine": true,
-    "account": 
+    "account":
 }
 
 ```
