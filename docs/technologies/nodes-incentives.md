@@ -6,7 +6,7 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 
 1. How do I know if my client is a candidate for incentive rewards?
 
-    Use the [getincentiveinfo](https://wiki.vcash.info/RPC/Commands/getincentiveinfo.md) command in the GUI console. If you see "votecandidate, true" you are eligible to be a candidate.
+    Use the [getincentiveinfo](https://wiki.vcash.info/RPC/commands/getincentiveinfo/) command in the GUI console. If you see "votecandidate, true" you are eligible to be a candidate.
 
 2. Will collateral be required?
 
@@ -14,7 +14,7 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 
 3. How do I deposit collateral?
 
-    You send 10000 coins to your default wallet address found in [getincentiveinfo](https://wiki.vcash.info/RPC/Commands/getincentiveinfo.md) as a single transaction. Within some time it should reflect in [getincentiveinfo](https://wiki.vcash.info/RPC/Commands/getincentiveinfo.md) if the deposit is equal or greater than 10000.
+    You send 10000 coins to your default wallet address found in [getincentiveinfo](https://wiki.vcash.info/RPC/commands/getincentiveinfo/) as a single transaction. Within some time it should reflect in [getincentiveinfo](https://wiki.vcash.info/RPC/commands/getincentiveinfo/) if the deposit is equal or greater than 10000.
 
 
 4. What is the incentive percentage?
@@ -23,7 +23,7 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 
 5. How do mining pools reward users?
 
-    As found in [getblocktemplate](https://wiki.vcash.info/RPC/Commands/getblocktemplate.md) they are required to include a transaction if the incentive address is not empty.
+    As found in [getblocktemplate](https://wiki.vcash.info/RPC/commands/getblocktemplate/) they are required to include a transaction if the incentive address is not empty.
 
     ```
     "incentive": {
