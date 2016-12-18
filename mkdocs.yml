@@ -65,5 +65,5 @@ pages:
      - RPC/commands/walletpassphrase.md
      - RPC/commands/walletpassphrasechange.md
  - Technologies:
-    - technologies/nodes-incentives.md
+    - technologies/node-incentives.md
     - technologies/zerotime.md
