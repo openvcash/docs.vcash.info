@@ -1,4 +1,4 @@
-## Welcome to the Vcash Community wiki. ##
+## Welcome to the Vcash Community docs. ##
 
 Vcash is a [cryptographic-currency](https://en.wikipedia.org/wiki/Cryptocurrency) previously known as Vanillacoin released on December 23rd 2014.
 
