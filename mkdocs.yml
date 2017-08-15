@@ -49,7 +49,6 @@ pages:
      - 'getrawtransaction': RPC/commands/getrawtransaction.md
      - 'gettransaction': RPC/commands/gettransaction.md
      - 'importprivkey': RPC/commands/importprivkey.md
-     - 'incentive': RPC/commands/incentive.md
      - 'listreceivedbyaccount': RPC/commands/listreceivedbyaccount.md
      - 'listreceivedbyaddress': RPC/commands/listreceivedbyaddress.md
      - 'listsinceblock': RPC/commands/listsinceblock.md
